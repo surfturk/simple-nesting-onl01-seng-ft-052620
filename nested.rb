@@ -1,5 +1,7 @@
 
 def hopper
+  programmer[:grace_hopper][:known_for]
+  
 	programmer_hash = 
  		{
         :grace_hopper => {
